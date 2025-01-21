@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = IskoOrganizer
+title = OutputCompilerApp
 
 # (str) Package name
 package.name = nfsApk
@@ -10,7 +10,7 @@ package.name = nfsApk
 package.domain = org.novfensec
 
 # (str) Source code where the main.py live
-source.dir = .
+source.dir = main.py
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
